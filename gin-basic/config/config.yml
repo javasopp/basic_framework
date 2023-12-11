@@ -1,0 +1,18 @@
+
+server:
+  port: 8080
+  context-path: /basic
+# MySQL配置
+mysql:
+  host: 192.168.31.10
+  port: 3307
+  username: root
+  password: Zxcv123.00
+  database: test
+
+# Redis配置
+redis:
+  host: 192.168.31.10
+  port: 6379
+  password: Zxcv123.00
+  database: 0
